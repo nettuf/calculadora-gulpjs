@@ -1,0 +1,21 @@
+@import "base.css";
+
+#n1, #n2{
+    padding: 10px;
+    font-size: 25px;
+    width: 100px;
+}
+
+#calcular{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 23px;
+}
+
+#resultado{
+    border: 1px dashed #fff;
+    padding: 20px;
+    font-size: 23px;
+    width: 300px;
+    margin: auto;
+}
